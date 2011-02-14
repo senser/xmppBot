@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.community.xmppBot = ZenPacks.community.xmppBot
+
